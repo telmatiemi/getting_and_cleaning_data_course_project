@@ -1,5 +1,10 @@
 # getting_and_cleaning_data_course_project
+
 Getting and Cleaning Data course project
+
+This repository contains two files. They are described below.
+
+run_analysis.R file:
 
 The goal of this project ir generate a .txt file containing the average values for mean and standard deviation values grouped by subject and activity. 
 
@@ -37,3 +42,7 @@ The script follows the steps below:
 7) The average of each measurement were calculated through aggregate function.
 
 8) The step 7 results were loaded to Week4_Assignment.txt file.
+
+CodeBook.md:
+
+CodeBook.md contains detailed information on the variables calculated in the data set (Week4_Assignment.txt file) uploaded. 
