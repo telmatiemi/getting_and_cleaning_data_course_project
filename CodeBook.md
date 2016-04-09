@@ -1,4 +1,8 @@
-CodeBook for Getting and Cleaning Data Course Project
+#CodeBook for Getting and Cleaning Data Course Project
+
+The output file contains the average value of measurements related to mean and standard deviation grouped by activity and subject.
+
+Each column available in the output file is detailed below.
 
 activity_description:
 Might have the domain below:
