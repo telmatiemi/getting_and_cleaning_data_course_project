@@ -21,27 +21,27 @@ The other 79 measurements names were formatted following the standard below:
 
 (1) + (2) + (3) + "." + (4) + "..." + (5)
 
-1 - Prefix that denotes either time or frequency domain signals. 
+(1) - Prefix that denotes either time or frequency domain signals. 
 Domain: t - for time, 
         f - for frequency
         
-2 - Acceleration signal. 
+(2) - Acceleration signal. 
 Domain: BodyAcc - Body accelation
         GravityAcc - Gravity acceleration
         
-3 - If the body linear acceleration and angular velocity were derived in time to obtain Jerk signals:
+(3) - If the body linear acceleration and angular velocity were derived in time to obtain Jerk signals:
 Domain: Jerk - Jerk
 
-4 - The set of variables that were estimated from these signals:
+(4) - The set of variables that were estimated from these signals:
 Domain: mean - Mean value
         std - Standard deviation
         
-5 - Denotes 3-axial signals in the X, Y and Z directions:
+(5) - Denotes 3-axial signals in the X, Y and Z directions:
 Domain: X
         Y
         Z
         
-The 79 measurements related to mean and std aare listed below:
+The 79 measurements related to mean and std are listed below:
 
 tBodyAcc.mean...X
 tBodyAcc.mean...Y
