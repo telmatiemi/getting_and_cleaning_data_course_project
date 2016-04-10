@@ -2,7 +2,7 @@
 
 Getting and Cleaning Data course project
 
-This repository contains two files. They are described below.
+This repository contains three files. They are described below.
 
 run_analysis.R file:
 
@@ -44,5 +44,7 @@ The script follows the steps below:
 8) The step 7 results were loaded to Week4_Assignment.txt file.
 
 CodeBook.md:
-
 CodeBook.md contains detailed information on the variables calculated in the data set (Week4_Assignment.txt file) uploaded. 
+
+Week4_Assignment.txt:
+It is the output file resulted from run_analysis.R execution.
